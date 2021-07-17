@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tlfc2003
 - 👀 I’m interested in Python Programming
-- 🌱 I’m currently learning Bachelor of Computer Science (Hons) Software Engineering
+- 🌱 I’m currently learning Bachelor of Computer Science (Hons) Software Engineering (Penang, Malaysia)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
